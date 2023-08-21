@@ -8,7 +8,7 @@ import Typewriter from 'typewriter-effect'
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
-import profile from '../../images/matt.png'
+import profile from '../../images/matt.jpg'
 import linkedin from '../../images/social/linkedin.png'
 
 const Home = () => {
@@ -16,17 +16,21 @@ const Home = () => {
   return (
     <div className="home-wrapper">
       <div className="home">
-        <Particles className="particles" params={config.particles} />
+        <Particles className="particles" params={config.particles} 
+        
+        
+        />
         <div className={`greeting${!imageLoaded ? ' hide' : ''}`}>
           <Fade bottom distance="40px">
             <img
               className="profile"
               alt="m.jigalin profile"
               src={profile}
+              
               onLoad={() => setImageLoaded(true)}
             />
             <h1 className="greeting-text">
-              Hi, I'm <span className="name">Matthew Jigalin</span>.{' '}
+              Hi, I'm <span className="name">Sujan Derangula</span>.{' '}
               <span className="wave-emoji" role="img" aria-label="waving hand">
                 👋
               </span>
@@ -43,15 +47,15 @@ const Home = () => {
                   autoStart: true,
                   loop: true,
                   deleteSpeed: 10,
-                  cursor: '<',
-                  delay: 100,
+                  cursor: '|',
+                  delay: 70,
                 }}
               />
             </h1>
             <Bounce cascade>
               <div className="links">
                 <a
-                  href="https://www.linkedin.com/in/mjigalin/"
+                  href="https://www.linkedin.com/in/sujan-raj-d-001b61139/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

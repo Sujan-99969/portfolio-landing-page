@@ -2,7 +2,7 @@ import React from 'react'
 import './ExperienceCard.css'
 
 const ExperienceCard = ({ experience }) => {
-  let { link, company, title, dateFrom, dateTo, info, stack } = experience
+  let { link, company, title, dateFrom, dateTo, info, stack ,designation} = experience
   return (
     <a
       className="experience-link"
@@ -46,6 +46,7 @@ const ExperienceCard = ({ experience }) => {
           <div className="experience-card-bottom">
             <div>
               <h2>{title}</h2>
+              <h6>{designation}</h6>
               <h3>
                 {dateFrom} - {dateTo}
               </h3>

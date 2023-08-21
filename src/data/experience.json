@@ -2,48 +2,49 @@
   "experience": [
     {
       "id": 0,
-      "link": "https://www.8secondz.com/",
-      "company": "8secondz",
-      "title": "Creative Lead - Web & App Teams",
-      "dateFrom": "June 2020",
-      "dateTo": "July 2021",
+      "link": "https://joyitsolutions.co/",
+      "company": "JoyIt",
+      "title": "UI Developer",
+      "dateFrom": " 2022",
+      "dateTo": " current",
       "info": [
-        "Responsible for web team front-end development and design",
-        "Led in app UI/UX & company wide creative media content"
+        "Debugging the errors and fixing",
+        "Developing mobile responsive and tab"
       ],
-      "stack": ["Vue.js", "Nuxt.js", "Node.js", "AWS"],
-      "logoheight": 80,
+      "stack": ["HTML5", "CSS", "JavaScript", "Angular", "Angular material"],
+      "logoheight": 100,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
       "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
     },
     {
       "id": 1,
-      "link": "https://www.psykinetic.com",
-      "company": "Psykinetic",
-      "title": "Immersive Tech & Web Developer",
-      "dateFrom": "August 2020",
-      "dateTo": "Current",
+      "link": "https://www.jellybellyinternational.com/",
+      "company": "Echidna",
+      "title": "UI developer",
+      
+      "dateFrom": "2021",
+      "dateTo": "2022",
       "info": [
-        "Developing VR application with UE4 and C++ for Oculus Quest",
-        "Web design & development of web platform using wix"
+        "Follow up the new features & improvement of product UI development",
+        "Worked closely with product owners and QA engineers in a Scrum team."
       ],
-      "stack": ["C++", "UE4", "VR", "Web Design"],
+      "stack": ["HTML5", "CSS", "Jira", "JavaScript", "KIBO framework", "GIT"],
       "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
-      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #0044ff)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #0044ff)"
     },
     {
       "id": 2,
-      "link": "https://www.cactuscan.com",
-      "company": "CactusCan",
-      "title": "Creative Lead",
-      "dateFrom": "2016",
-      "dateTo": "Current",
+      "link": "https://elite.com",
+      "company": "Elite",
+      "title": "Web developer",
+      "dateFrom": "2019",
+      "dateTo": "2020",
       "info": [
-        "Co-founding CactusCan in 2015 has led to many exciting projects with incredible customers.",
-        "Web design, marketing, media and customer engagement."
+        "Developing and implementing highly-responsive user interface components.",
+        "Excellent collaborating with UI/UX Team and Backend Team."
       ],
-      "stack": ["React", "Marketing", "Design", "UI/UX"],
+      "stack": ["HTML5", "CSS", "JavaScript", "React", "GIT"],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
       "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
