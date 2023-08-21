@@ -2,7 +2,7 @@
   "featured_projects": [
     {
       "id": 0,
-      "name": "Cactus",
+      "name": "elite",
       "link": "https://www.cactuscan.com/",
       "description": "🌵 A responsive multi-page website made with wordpress for ease of updating & blog functionality. Used jQuery for custom animations and extension integration.",
       "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
