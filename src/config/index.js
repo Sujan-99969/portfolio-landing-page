@@ -2,7 +2,7 @@ module.exports = {
   particles: {
     particles: {
       number: { value: 20 },
-      color: { value: [ '#0000ff'] },
+      color: { value: ['#0be779', '#008a3e', '#a3ffce'] },
       opacity: {
         value: 0.5,
         random: false,
@@ -45,7 +45,7 @@ module.exports = {
       },
       modes: {
         bubble: {
-          distance: 500,
+          distance: 200,
           size: 17,
           duration: 1,
           opacity: 0.8,
